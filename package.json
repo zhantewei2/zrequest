@@ -1,0 +1,17 @@
+{
+  "name": "z-simple-request",
+  "version": "1.0.2",
+  "description": "http https request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "http",
+    "https",
+    "ztw"
+  ],
+  "author": "zhantewei",
+  "license": "ISC"
+}
