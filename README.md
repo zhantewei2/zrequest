@@ -42,7 +42,7 @@ request(`hostname`,`isHttps`,`opts`):`req`
  ```js
 const {request}=require('z-simple-request');
 const cookie='account=aa';
-const req=request('www.xxxx.com',true,443,cookie);
+const req=request('www.xxxx.com',true,{cookie});
 req({
   method:'post',
   path:'/submitForm',

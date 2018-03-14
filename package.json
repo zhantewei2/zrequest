@@ -1,6 +1,6 @@
 {
   "name": "z-simple-request",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "http https request",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,9 @@
     "ztw"
   ],
   "author": "zhantewei",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/zhantewei2/zrequest"
+  },
   "license": "ISC"
 }
